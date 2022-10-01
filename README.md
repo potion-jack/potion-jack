@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp  
 
-<h3 align="center"><b>🛠 librarys 🛠</b></h3>
+<h3 align="center"><b>🛠 library 🛠</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a> &nbsp
@@ -37,6 +37,12 @@
 <img src="https://img.shields.io/badge/Git-%20-brightgreen"/></a> &nbsp
 <img src="https://img.shields.io/badge/Statistics-%20-red"/></a> &nbsp
 <img src="https://img.shields.io/badge/Computer_Architecture-%20-red"/></a> &nbsp
+</p>
+
+<h3 align="center"><b>🛠 Education 🛠</b></h3></br>
+<p align="center">
+<img src="https://img.shields.io/badge/B.S_in_Physics-%20-brightgreen"/></a> &nbsp
+<img src="https://img.shields.io/badge/B.S_in_Statistics-%20-brightgreen"/></a> &nbsp
 </p>
 
 ## How to reach me: flycast0080@gmail.com
