@@ -1,7 +1,12 @@
-![*'s GitHub stats](https://github-readme-stats.vercel.app/api?username=portion_jackshow_icons=true&theme=radical)
-## Hi there 👋
+https://img.shields.io/github/pipenv/locked/python-version/portion-jack/portion-jack
+## Hi there 
 
 - 🔭 I currently reset my github! (2022_08_27)
+
+main language
+
+
+
 - 🌱 I’m currently studying 
   - python3
     - machine_learning
