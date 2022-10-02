@@ -45,6 +45,6 @@
 <img src="https://img.shields.io/badge/B.S_in_Statistics-%20-red"/></a> &nbsp
 </p>
 
-> ### How to reach me: flycast0080@gmail.com
-> ### Dev_blog : http://portion-jack.github.io/
+> ### E-mail   : flycast0080@gmail.com
+> ### Dev Blog : http://portion-jack.github.io/
 
