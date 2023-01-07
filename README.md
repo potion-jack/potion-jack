@@ -8,9 +8,10 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/pytorch-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/pytorch-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/></a> &nbsp 
 </p>
 
 <h3 align="center"><b>🛠 Language Available 🛠</b></h3>
@@ -28,14 +29,16 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iTerm2&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
 </p>
 
 <h3 align="center"><b>🛠 Currently Studying 🛠</b></h3></br>
 <p align="center">
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black"/></a> &nbsp
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/Machine_learning-%20-brightgreen"/></a> &nbsp
-<img src="https://img.shields.io/badge/Git-%20-brightgreen"/></a> &nbsp
 <img src="https://img.shields.io/badge/Statistics-%20-red"/></a> &nbsp
 <img src="https://img.shields.io/badge/Computer_Architecture-%20-red"/></a> &nbsp
 </p>
