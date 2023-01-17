@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/B.S_in_Statistics-%20-red"/></a> &nbsp
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=portion-jack&theme=tokyonight&hide=css)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=portion-jack&theme=tokyonight&hide=css) -->
 
 > ### E-mail   : flycast0080@gmail.com
 > ### 
