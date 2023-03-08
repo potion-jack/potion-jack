@@ -41,9 +41,6 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Hadoop&color=222222&logo=Apache+Hadoop&logoColor=66CCFF&label="/></a> &nbsp
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label="/></a> &nbsp
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label="/></a> &nbsp
-<img src="https://img.shields.io/badge/Machine_learning-%20-brightgreen"/></a> &nbsp
-<img src="https://img.shields.io/badge/Statistics-%20-red"/></a> &nbsp
-<img src="https://img.shields.io/badge/Computer_Architecture-%20-red"/></a> &nbsp
 </p>
 
 <h3 align="center"><b>🛠 Education 🛠</b></h3></br>
