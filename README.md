@@ -2,8 +2,7 @@
 <p align="center">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/></a> &nbsp  
 
-<h3 align="center"><b>🛠 Library 🛠</b></h3>
-</br>
+<h3 align="center"><b>🛠 Library 🛠</b></h3></br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a> &nbsp
