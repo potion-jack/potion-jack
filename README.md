@@ -51,7 +51,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=portion-jack&theme=tokyonight&hide=css) -->
 
 > ## Studying Airflow in naver_cloud ubuntu platform! 
-> ## making DataWarehouse for data_engineering team
+> ## Making DataWarehouse for data_engineering team
 > ### E-mail   : flycast0080@gmail.com
 > #### Summary
 > 1. Impressive Preprocessing and Pipeline
