@@ -39,7 +39,7 @@
 </p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=portion-jack&theme=tokyonight&hide=css) -->
-
+![F82B4AC7-8F60-4D23-B875-D2EE829E7023](https://user-images.githubusercontent.com/112222918/233598896-e56c64ad-5f58-47f6-a4f0-a1c4a4d3d8f6.jpeg)
 > # Studying Airflow in naver_cloud ubuntu platform
 > -> 네이버 클라우드의 우분투 서버에서 airflow를 통한 업무자동화 처리를 진행하고 있습니다. -> 자동화 하는 버튼을 만드는것과 자동화를 자동화 
 > # Making DataWarehouse for data_engineering team
